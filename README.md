@@ -1,2 +1,2 @@
-# solstice.github.io
-Website for Solitice Strings
+# Solstice Stings
+Website coming soon
