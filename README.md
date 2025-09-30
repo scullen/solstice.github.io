@@ -1,14 +1,3 @@
-
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-HFXB7J011Q"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-HFXB7J011Q');
-</script>
-
 Contact: [email](mailto:info@solsticestrings.com?subject=Website%20Enquiry)
 
 Calling Calgary home, the Solstice Strings Collective is a group of musicians dedicated to bringing music from under-represented composers to a larger audience.
