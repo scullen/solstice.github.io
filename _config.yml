@@ -7,3 +7,6 @@ plugins:
 
 github:
   is_project_page: false
+
+google_analytics:
+  id: "G-HFXB7J011Q"  
